@@ -35,3 +35,5 @@ Cautati si instalati pachetele
 
 d.\
 In ultima instanta, creati voi un proiect nou, instalati cu pip ce trebuie si copiati manual folderele si fisierele necesare. 
+
+Final step: have fun!
